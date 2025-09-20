@@ -22,4 +22,5 @@ Scratch.extensions.register({
     asdibousdsfad() {
         return false;
     },
+
 });
